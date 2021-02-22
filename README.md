@@ -1,5 +1,4 @@
 # Mario-Fan 
-### -By anvi98
 
 ## Live Demo
 https://anvi98.github.io/Mario-Fan/
