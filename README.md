@@ -5,8 +5,8 @@
 https://anvi98.github.io/Mario-Fan/
 
 ## Details:
-In this mini project, I reviewed my skills on HTML5/CSS3 -- Pure basics..
-I applied :
+In this mini project, I reviewed my skills on HTML5/CSS3 -- Pure basics...
+<br> I applied :
 
 - LLayout and Position concept : fixed, absolute, sticky and relative
 - pseudo element @ classes like ::after
