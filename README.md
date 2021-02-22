@@ -8,7 +8,7 @@ https://anvi98.github.io/Mario-Fan/
 In this mini project, I reviewed my skills on HTML5/CSS3 -- Pure basics...
 <br> I applied :
 
-- LLayout and Position concept : fixed, absolute, sticky and relative
+- Layout and Position concept : fixed, absolute, sticky and relative
 - pseudo element @ classes like ::after
 - Media queries  : to make it responsive (That's really important !!!)
 - Apply html5 semantics to have a better structure of a Web page.
@@ -25,4 +25,4 @@ This was a good checking before moving forward in my skills :-)
 - Twitter: [@anvi_al](https://twitter.com/anvi_al)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/anvi-alex-eponon/)
 
-Thanks.
+<span style="green">Thanks.</span>
